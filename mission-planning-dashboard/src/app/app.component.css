@@ -1,0 +1,17 @@
+.box {
+    display: flex;
+    padding: 10px;
+    text-align: center;
+ }
+ .head{
+     padding-bottom: 10px;
+ }
+ .body{
+    border: 10px dotted lightslategray;
+    background-color: lavenderblush;
+    border-radius: 12px;
+    height:auto;
+    width: 500px;
+    margin: auto;
+    
+ }
